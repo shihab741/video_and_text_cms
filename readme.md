@@ -1,4 +1,4 @@
-======================================
+
 This is an experimental CMS developed using Laravel framework for managing YouTube video links and text contents
 ======================================
 
