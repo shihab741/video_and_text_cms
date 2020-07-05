@@ -14,7 +14,7 @@ This is an experimental CMS developed using Laravel framework for managing YouTu
 10.	The short description field is required and checked using Laravel validation,
 11.	The title is field also required and checked using HTML attribute.
 
-=====================================
+
 Note:
 =====================================
 
