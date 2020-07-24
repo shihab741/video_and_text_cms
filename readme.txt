@@ -17,7 +17,5 @@ This is an experimental CMS developed using Laravel framework for managing YouTu
 =====================================
 Note:
 =====================================
-
-1.	You can also check the project live on http://video.cyber-workshop.com/
-2.	Screenshots of frontend and admin panel are included with the repository (‘project-screenshots’ folder),
-3.	Database is included with the repository (‘project-database’ folder)
+1.	Screenshots of frontend and admin panel are included with the repository (‘project-screenshots’ folder),
+2.	Database is included with the repository (‘project-database’ folder)
